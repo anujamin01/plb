@@ -3,6 +3,6 @@
 #include "user.h"
 
 int main(int argc, char *argv[]){
-    printf(1,"First xv6 program \n");
+    printf(1,"This year is %d\n", getyear());
     exit();
 }

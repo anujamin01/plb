@@ -15,6 +15,7 @@
 00000090 cat
 000006f0 malloc
 000003f3 sleep
+00000403 getyear
 00000373 pipe
 00000383 write
 000003bb fstat

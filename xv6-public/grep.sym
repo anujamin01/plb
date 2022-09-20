@@ -16,6 +16,7 @@
 000001d0 grep
 00000950 malloc
 00000653 sleep
+00000663 getyear
 000005d3 pipe
 000005e3 write
 0000061b fstat

@@ -14,6 +14,7 @@
 00000413 getpid
 00000720 malloc
 00000423 sleep
+00000433 getyear
 000003a3 pipe
 000003b3 write
 000003eb fstat

@@ -22,6 +22,7 @@
 00000470 gettoken
 000011b0 malloc
 00000eb3 sleep
+00000ec3 getyear
 000019cc whitespace
 00000190 fork1
 00000ab0 nulterminate

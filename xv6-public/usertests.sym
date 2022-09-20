@@ -21,6 +21,7 @@
 00002b70 iref
 00003c60 malloc
 00003963 sleep
+00003973 getyear
 00000200 exitiputtest
 000033b0 fsfull
 00001bf0 bigdir
